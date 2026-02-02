@@ -3,3 +3,5 @@ one
 hello
 world
 make it again (branch)
+classic (I edited this while there is a merge conflict, just to see
+if I can write something while resolving it)
